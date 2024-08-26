@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "headline": "Smarter Solutions for Tomorrow",
+    "subheadline": "Discover BlueTech—where advanced technology meets intuitive design. Manage projects and optimize workflows with tools designed to help you excel in a fast-paced world.",
+    "ctaButtons": [
+      {
+        "text": "Download Now",
+        "link": "/download"
+      },
+      {
+        "text": "Learn More",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Tailored Workflow Automation",
+      "description": "Streamline repetitive tasks and processes with customizable workflows, minimizing manual effort and boosting efficiency.",
+      "icon": "./images/featureliststar.svg"
+    },
+    {
+      "title": "User-Friendly Interface",
+      "description": " A simple, user-friendly interface crafted for easy navigation, ensuring accessibility for users of all experience levels.",
+      "icon": "./images/featurelistcube.svg"
+    },
+    {
+      "title": "Enhanced Data Analysis",
+      "description": "Robust analytics tools offering insights via visual dashboards, real-time reporting, and predictive analysis.",
+      "icon": "./images/featurelistcubetwo.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "User -1",
+      "feedback": "This app is amazing! It has transformed my life.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "User -2",
+      "feedback": "I can't picture my daily routine without this app.",
+      "avatar": "https://via.placeholder.com/50"
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Basic",
+      "price": "$5.69/month",
+      "features": ["Feature A", "Feature B", "Feature C"]
+    },
+    {
+      "plan": "Premium",
+      "price": "$15.69/month",
+      "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+    }
+  ]
+}
